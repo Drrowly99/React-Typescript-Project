@@ -1,0 +1,32 @@
+  [
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 18.68,
+        "imgUrl": "/images/book.jfif"
+    },
+    {
+        "id": 2,
+        "name": "Computer",
+        "price": 11.99,
+        "imgUrl": "/images/laptop.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Banana",
+        "price": 1.85,
+        "imgUrl": "/images/banana.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Car",
+        "price": 3.59,
+        "imgUrl": "/images/car.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Phones",
+        "price": 13.68,
+        "imgUrl": "/images/iphone.jfif"
+    }
+  ]
