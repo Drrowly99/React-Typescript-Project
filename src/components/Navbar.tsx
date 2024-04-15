@@ -16,6 +16,9 @@ const Navbar = () => {
           <Nav.Link to="/store" as={NavLink}>
             Store
           </Nav.Link>
+          <Nav.Link to="/learn" as={NavLink}>
+            Learn
+          </Nav.Link>
         </Nav>
         <Button
           style={{ width: "3rem", height: "3rem", position: "relative" }}
